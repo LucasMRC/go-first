@@ -1,4 +1,4 @@
-github.com/GoesToEleven/dog v0.0.0-20230428023317-90bef1c76cb9 h1:WtQjqEAV0EwbFVvp4ETs4XvRmdE0+r578aLTAnay80Y=
-github.com/GoesToEleven/dog v0.0.0-20230428023317-90bef1c76cb9/go.mod h1:bSJZIYrINAWfFsUPONiX6V8GGsCFquPtn5yE6DFvIkE=
-github.com/LucasMRC/puppy v0.0.0-20230701064656-1509339bab9f h1:qSO2iZpevoQ4ohy72fBOMoHEhvuRJTbGwfQheQG2wVk=
-github.com/LucasMRC/puppy v0.0.0-20230701064656-1509339bab9f/go.mod h1:Prak4sfVFuJTUdiceTPRgJl7DpAC/UgU5oMqoSas45U=
+github.com/LucasMRC/dog v0.0.0-20230701063605-e0efe700e5bd h1:/02QbjnNStAKe30CAo2ajhYsYW9KXMe+GQ4ckIPuKVU=
+github.com/LucasMRC/dog v0.0.0-20230701063605-e0efe700e5bd/go.mod h1:8l+/UPXAHHAXk0svrLuvBqa6upsUwKpluA04G5q3WTM=
+github.com/LucasMRC/puppy v0.0.0-20230701065848-6eadb90d07d5 h1:GVpWsRX3verpV36Dvq0XGCHH8MD4tmAZqpYycNIFZtA=
+github.com/LucasMRC/puppy v0.0.0-20230701065848-6eadb90d07d5/go.mod h1:jOEmQsOKrLr3RBahXHAWEYH0iDTYiXrEBS1Uws24qkA=
